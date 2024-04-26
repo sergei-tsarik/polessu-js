@@ -46,3 +46,4 @@ result of adding the number of accepted pears and apples.
 ### Плюсик в Карму ###
 - Гопта Даниил
 - Лесько Александр
+- Селюжицкий Максим
