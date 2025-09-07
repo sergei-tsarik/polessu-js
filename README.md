@@ -1,5 +1,5 @@
 # Скриптовые языки программирования
-Методические указания по выполнению лабораторных работ по дисциплине «Скриптовые языки программирования» [скачать pdf-файл]([https://pages.github.com/](https://github.com/sergei-tsarik/polessu-js/blob/main/js-labs.pdf).
+Методические указания по выполнению лабораторных работ по дисциплине «Скриптовые языки программирования» [скачать pdf-файл](https://github.com/sergei-tsarik/polessu-js/blob/main/js-labs.pdf).
 
 ## Задание. Conditional Statements and Data Types
 Выполните действие "+" над следующими типами данных:
